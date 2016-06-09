@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MongoDB": {
+    "host": "ds011374.mlab.com",
+    "port": 11374,
+    "url": "mongodb://>puppet:puppettoys78@ds011374.mlab.com:11374/puppet",
+    "database": "puppet",
+    "password": "puppettoys78",
+    "name": "MongoDB",
+    "user": "puppet",
+    "connector": "mongodb"
+  }
+}
